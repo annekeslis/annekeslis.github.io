@@ -1,5 +1,10 @@
 title: Anneke Slis
-description: Academic and Research Profile
+description: Speech Science | Motor Control | Dysarthria | Stuttering
 theme: jekyll-theme-minimal
 
+show_downloads: false
+
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
