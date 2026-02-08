@@ -1,6 +1,3 @@
----
-title: Anneke Slis
----
-
+## Anneke Slis
 ## education
 ## publications
