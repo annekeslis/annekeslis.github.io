@@ -1,3 +1,2 @@
-# Anneke Slis
 ## education
 ## publications
