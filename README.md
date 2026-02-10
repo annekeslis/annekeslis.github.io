@@ -13,7 +13,6 @@ One current line of my research focusses on how patterns of articulatory coordin
 
 A second line of study, to answer the questions related to control and coordination of movements, focusses on what happens when the speech production system breaks down and individuals show dysarthric speech, such as in Parkinson's disease, ALS and individuals with cerebellar lesions.
 
-
 ## education
 **2014	Ph.D. University of Toronto**, Oral Dynamics Lab, Department of Speech-Language Pathology
 *Dissertation:* “The Effect of Articulatory Constraints and Auditory Information on Patterns of Intrusions and Reductions”.
@@ -42,7 +41,6 @@ In addition to synchronizing with and continuing a series of metronome beats, we
 Just like speech production, articulation of notes while playing a woodwind or brass instrument involves movements of the tongue and lips. I collaborated with the renowned clarinet player Kornel Wolak and we investigate what the tongue does when players articulate notes on the clarinet: https://kornelwolak.com/ 
 
 **Speech errors**
-
 
 ## publications
 **2023**	
