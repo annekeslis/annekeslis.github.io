@@ -1,5 +1,4 @@
-## Anneke Slis
-## About
+## About me
 My academic fascination with speech science started when I was still immersed in a musical research and performing arts environment. Combining these two fields, my research today focusses on common mechanisms underlying coordination of articulatory movements in speech and general movement control. The behavior of articulators resembles that found in other movement related fields, such as music production or walking. This means that similar (cognitive and mechanical) constraints in related fields, such as music, dance, rhythm etc. are expected when explaining underlying variability in speech.
 
 Two main questions drive my research:
