@@ -1,5 +1,7 @@
 ## Anneke Slis
 ## About
+
+
 ## education
 **2014	Ph.D. University of Toronto**, Oral Dynamics Lab, Department of Speech-Language Pathology
 *Dissertation:* “The Effect of Articulatory Constraints and Auditory Information on Patterns of Intrusions and Reductions”.
@@ -12,6 +14,8 @@
 **Foundation Year Diploma (“Propedeuse”)**, Musicology Utrecht University
 
 ## Research
+
+
 ## publications
 **2023**	
 
