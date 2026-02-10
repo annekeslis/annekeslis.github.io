@@ -1,5 +1,14 @@
 ## Anneke Slis
 ## About
+My academic fascination with speech science started when I was still immersed in a musical research and performing arts environment. Combining these two fields, my research today focusses on common mechanisms underlying coordination of articulatory movements in speech and general movement control. The behavior of articulators resembles that found in other movement related fields, such as music production or walking. This means that similar (cognitive and mechanical) constraints in related fields, such as music, dance, rhythm etc. are expected when explaining underlying variability in speech.
+
+Two main questions drive my research:
+How do cognitive, (bio)-mechanical constraints, and their interactions affect the final articulatory movements in speech production?
+Which patterns of articulatory movements are universal and what is specifically related to the speech production system?
+
+One current line of my research focusses on how patterns of articulatory coordination are driven by rhythmic repetitive behavior. To unraffle specific articulatory constraints and general movement control, I investigate differences and similarities observed in finger tapping and articulatory movements.
+
+A second line of study, to answer the questions related to control and coordination of movements, focusses on what happens when the speech production system breaks down and individuals show dysarthric speech, such as in Parkinson's disease, ALS and individuals with cerebellar lesions.
 
 
 ## education
@@ -13,7 +22,23 @@
 
 **Foundation Year Diploma (“Propedeuse”)**, Musicology Utrecht University
 
-## Research
+## Projects and research interests
+
+**Metronome and its effect on fluency**
+
+**Cerebellar Ataxia**
+
+**Using  spectral features to distinguish speakers with dysarthria from typical speakers**​
+One of the factors that is affected in Parkinson’s disease is intelligible speech production. In most cases, Patients develop hypokinetic dysarthria, and the onset and development of this speech motor disorder is frequently difficult to assess and determine perceptually by clinicians. Our study provided an acoustic tool that separated typical speakers from mild and moderate dysarthric speakers with Parkinson’s disease and ALS.
+
+**Complexity of Rhythmic Tapping Task and Stuttering**​
+In this project, we examined a possible link between articulatory and general motor behavior in people who stutter. Differences in motor behavior in PWS are not limited to speech but can also be found in other motor tasks. One of the theories is that stutterers face difficulty with the timing of motor events in general. We asked ourselves whether PWS can fill in the time between metronome beats with extra taps, a skill necessary in speech that is characterized by less predictable rhythms.  
+In addition to synchronizing with and continuing a series of metronome beats, we examined if PWS have difficulties with estimating time between external metronome beats by letting them fill in the time with several taps.  The data showed that people who stutter indeed differed in tapping behavior and this finding is laying the groundwork for our larger study which is in progress as we speak.
+
+**Articulation techniques in clarinet playing**​
+Just like speech production, articulation of notes while playing a woodwind or brass instrument involves movements of the tongue and lips. I collaborated with the renowned clarinet player Kornel Wolak and we investigate what the tongue does when players articulate notes on the clarinet: https://kornelwolak.com/ 
+
+**Speech errors**
 
 
 ## publications
