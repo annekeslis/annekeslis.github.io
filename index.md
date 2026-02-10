@@ -4,7 +4,7 @@ title: Anneke Slis
 ---
 
 ## About me
-My academic fascination with speech science started when I was still immersed in a musical research and performing arts environment. Combining these two fields, my research today focusses on common mechanisms underlying coordination of articulatory movements in speech and general movement control. The behavior of articulators resembles that found in other movement related fields, such as music production or walking. This means that similar (cognitive and mechanical) constraints in related fields, such as music, dance, rhythm etc. are expected when explaining underlying variability in speech.
+My fascination with speech science started when I was still immersed in a musical research and performing arts environment. Combining these two fields, my research today focusses on common mechanisms underlying coordination of articulatory movements in speech and general movement control. The behavior of articulators resembles that found in other movement related fields, such as music production or walking. This means that similar (cognitive and mechanical) constraints in related fields, such as music, dance, rhythm etc. are expected when explaining underlying variability in speech.
 
 Two main questions drive my research:
 How do cognitive, (bio)-mechanical constraints, and their interactions affect the final articulatory movements in speech production?
@@ -14,7 +14,7 @@ One current line of my research focusses on how patterns of articulatory coordin
 
 A second line of study, to answer the questions related to control and coordination of movements, focusses on what happens when the speech production system breaks down and individuals show dysarthric speech, such as in Parkinson's disease, ALS and individuals with cerebellar lesions.
 
-## education
+## Education
 **2014	Ph.D. University of Toronto**, Oral Dynamics Lab, Department of Speech-Language Pathology
 *Dissertation:* “The Effect of Articulatory Constraints and Auditory Information on Patterns of Intrusions and Reductions”.
 
@@ -43,7 +43,7 @@ Just like speech production, articulation of notes while playing a woodwind or b
 
 **Speech errors**
 
-## publications
+## Publications
 **2023**	
 
 Slis, A., Savariaux, C., Perrier, P., & Garnier, M. (2023). Rhythmic tapping difficulties in adults who stutter: a deficit in beat perception, motor execution, or sensorimotor integration? PLOS One, https://doi.org/10.1371/journal.pone.0276691.
