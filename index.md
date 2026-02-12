@@ -3,7 +3,7 @@ layout: default
 title: Anneke Slis
 ---
 
-[About](/About) | [Education](/Education) | [Publications](/Publications) | [Contact](/contact)
+[About](/About) | [Education](/Education) | [Publications](/Publications)
 
 ## Projects and research interests
 
