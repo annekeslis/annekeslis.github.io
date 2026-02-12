@@ -1,3 +1,8 @@
+---
+layout: default
+title: Education
+---
+
 ## Education
 **2014	Ph.D. University of Toronto**, Oral Dynamics Lab, Department of Speech-Language Pathology
 *Dissertation:* “The Effect of Articulatory Constraints and Auditory Information on Patterns of Intrusions and Reductions”.
