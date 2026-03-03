@@ -1,4 +1,9 @@
-##Projects and research interests##
+---
+layout: default
+title: Projects
+---
+
+# Projects and research interests##
 
 #Metronome and its effect on fluency in adults who stutter and individuals with Parkinson's Disease#
 
