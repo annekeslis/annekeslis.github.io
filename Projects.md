@@ -3,7 +3,12 @@ layout: default
 title: Projects
 ---
 
-# Recent projects and research interests
+# Research interest
+1) Characterizing Articulatory Movement and Its Variability: Speech from the typical population as well as from individuals with neurodegenerative disorders resulting in dysarthria will be examined to understand how and why articulatory control deteriorates in these clinical populations. Both kinematic as well as acoustic tools are employed to investigate speech production mechanisms.
+2) Unraveling Articulatory Differences in Dysarthria: My research aims to differentiate between types of dysarthria caused by different neurological conditions. Comparative analyses of speech from individuals with different types of dysarthria and neurobiologically healthy speakers from a variety of language backgrounds contribute to building a more accurate understanding of these disorders and to developing targeted speech therapies.
+3) Bridging clinical and theoretical perspectives: In addition, research focuses on how other motor disorders, such as developmental stuttering, resemble and, even more importantly, differ from dysarthrias. One of the factors that will be examined is how fluency enhancing techniques, such as synchronizing with a metronome and noise masking, affect articulatory behaviour in people who stutter and individuals with Parkinson’s Disease.
+
+# Projects
 
 ## External Metronome triggers and its effect on fluency in adults who stutter and individuals with Parkinson's Disease
 
