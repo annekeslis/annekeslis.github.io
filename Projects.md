@@ -3,22 +3,21 @@ layout: default
 title: Projects
 ---
 
-# Projects and research interests
+# Recent projects and research interests
 
-## Metronome and its effect on fluency in adults who stutter and individuals with Parkinson's Disease
+## External Metronome triggers and its effect on fluency in adults who stutter and individuals with Parkinson's Disease
 
-## Cerebellar Ataxia
+At the Istituto di Scienze e Tecnologie della Cognizione in Padua, Italy, we investigate the articulatory organization of the Italian syllable in healthy and pathological speech. In this project, articulatory behaviour of speakers who stutter
+and dysarthric speakers diagnosed with Parkinson’s Disease is investigated under several fluency-enhancing conditions, such as external metronome beats, and conditions that are detrimental for fluency, such as sentence length and speech rate. The team consists of Dr. Claudio Zmarich (PI) and Dr. Vincenzo Galata from the Istituto di Scienze e Tecnologie della Cognizione, and Dr. Barbara Gili Fivela, Francesco Sigona from the Università del Salento - University of Salento and me. 
 
 ## Using  spectral features to distinguish speakers with different types of dysarthria from neurobiologically healthy speakers​
 
-One of the factors that is affected in Parkinson’s disease is intelligible speech production. In most cases, Patients develop hypokinetic dysarthria, and the onset and development of this speech motor disorder is frequently difficult to assess and determine perceptually by clinicians. Our study provided an acoustic tool that separated typical speakers from mild and moderate dysarthric speakers with Parkinson’s disease and ALS.
+One of my current interests is to differentiate between different types of dysarthria in French and American-English speakers and to develop efficient methods to cluster speaker populations automatically based on acoustic markers. Our past work at the LPP in Paris showed that a specific set of acoustic markers successfully discriminated between hypokinetic (PD), flaccid/spastic (Amyotrophic lateral sclerosis), flaccid (Kennedy’s disease), and spastic (Primary lateral sclerosis) dysarthrias in French speakers. Our previous research at the Waisman Center also revealed consistent clusters in the acoustic data of American-English speakers with ataxic dysarthria. Ongoing work explores new clustering methods and acoustic markers to uncover the true nature of these perceptually identifiable subgroups. My future work aims to validate these methods cross-linguistically in languages such as English, French, and Italian, to assess their robustness in analyzing additional motor speech disorders and to deepen the understanding of speech articulation across various dysarthria types within and across languages.
 
 ## Complexity of Rhythmic Tapping and Stuttering​
 
-In this project, we examined a possible link between articulatory and general motor behavior in people who stutter. Differences in motor behavior in PWS are not limited to speech but can also be found in other motor tasks. One of the theories is that stutterers face difficulty with the timing of motor events in general. We asked ourselves whether PWS can fill in the time between metronome beats with extra taps, a skill necessary in speech that is characterized by less predictable rhythms.   In addition to synchronizing with and continuing a series of metronome beats, we examined if PWS have difficulties with estimating time between external metronome beats by letting them fill in the time with several taps.  The data showed that people who stutter indeed differed in tapping behavior and this finding is laying the groundwork for our larger study which is in progress as we speak.
+To fully understand speech production in neurobiologically healthy individuals and in PWS and dysarthric speakers, I am interested in possible concomitant impairments in limb control. Evidence shows that both PWS and individuals with Cerebellar Ataxia show impairments in tapping tasks. The questions remain whether these motor impairments present similarly across domains and speech disorders. This research introduces an interdisciplinary approach by examining not only articulatory movements but also the overlap with general motor behavior, a connection that has been underexplored. 
 
 ## Articulation techniques in clarinet playing​
 
 Just like speech production, articulation of notes while playing a woodwind or brass instrument involves movements of the tongue and lips. I collaborated with the renowned clarinet player Kornel Wolak and we investigate what the tongue does when players articulate notes on the clarinet: https://kornelwolak.com/ 
-
-## Speech errors
