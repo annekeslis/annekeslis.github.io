@@ -6,20 +6,23 @@
 /* Banner */
 .banner {
   height: 220px;
-  background-image: url("/assets/images/image_banner.png");
+  background-image: url("/assets/images/banner.jpg");
   background-size: cover;
   background-position: center;
 }
 
-/* Header layout */
+/* Header container */
 .site-header {
   padding: 20px 40px;
+  position: relative;
 }
 
+/* THIS is the key change */
 .header-content {
   display: flex;
   align-items: center;
   gap: 20px;
+  margin-top: -70px; /* pulls content into banner */
 }
 
 /* Profile picture */
@@ -29,6 +32,8 @@
   border-radius: 50%;
   border: 4px solid white;
   object-fit: cover;
+  background: white;
+  z-index: 2;
 }
 
 /* Text */
