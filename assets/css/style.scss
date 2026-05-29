@@ -6,10 +6,12 @@
 /* Banner */
 .banner {
   height: 220px;
-  background-image: url("/assets/images/image_banner.png");
+  width: 100%;
+
+  background-image: url("{{ '/assets/images/image_banner.png' | relative_url }}");
   background-size: cover;
   background-position: center;
-  width: 100%;
+  background-repeat: no-repeat;
 }
 
 /* Header container */
