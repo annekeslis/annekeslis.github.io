@@ -9,22 +9,22 @@
   background-image: url("/assets/images/banner.jpg");
   background-size: cover;
   background-position: center;
+  width: 100%;
 }
 
-/* KEY FIX: pull header into banner */
+/* Header container */
 .site-header {
-  position: relative;
+  padding: 0 40px;
 }
 
-/* Make header float on top of banner */
+/* THIS is the safe overlap method */
 .header-content {
-  position: absolute;
-  top: -70px;   /* <-- THIS moves it into the banner */
-  left: 40px;
-
   display: flex;
   align-items: center;
   gap: 20px;
+
+  margin-top: -70px;  /* overlaps banner without breaking layout */
+  position: relative;
 }
 
 /* Profile image */
