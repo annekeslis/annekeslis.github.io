@@ -8,7 +8,7 @@ show_downloads: false
 markdown: kramdown
 
 plugins:
-  - jekyll-seo-tag
+ - jekyll-seo-tag
 
   sass:
   style: compressed
