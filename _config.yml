@@ -1,6 +1,7 @@
 title: Anneke Slis
 description: Speech Science | Motor Control | Dysarthria | Stuttering | EMA
 logo: /assets/images/profile_picture_2.jpg
+
 theme: jekyll-theme-minimal
 
 show_downloads: false
@@ -8,8 +9,7 @@ show_downloads: false
 markdown: kramdown
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-  sass:
+sass:
   style: compressed
-
