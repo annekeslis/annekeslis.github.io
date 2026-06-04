@@ -5,6 +5,16 @@ title: Publications
 
 ## Publications
 
+**2026**
+
+Slis, A. & Parrell, B. (2026) Sensorimotor adaptation of vocal pitch is impaired in cerebellar ataxia (accepted). Journal of Cognitive Neuroscience,
+
+V. Galata, A. Conte, D. Costa, B. Gili Fivela, A. Slis, C. Zmarich (submitted). Anticipation of disfluencies and factors that may affect their occurrence. A: a pilot study with Italian adults who stutter,
+
+**2025**
+
+Zmarich, C., Ciaurelli L., Galatà, V., Aravind Namasivayam, Slis, A., Tisato, G., & van Lieshout, P. (2025). The syllabification of Italian glides at different speech rates. AISV2025, Urbino, Italy.
+
 **2024**
 
 Slis, A. W. & Parrell B. (2024). Cerebellar degeneration impairs adaptation to pitch perturbations in sustained vocalization. The 13th International Seminar on Speech Production, Autrans, France.
