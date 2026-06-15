@@ -103,11 +103,19 @@
   text-decoration: underline;
 }
 
- =========================
+/* =========================
   BODY
 ========================= */
 
-body {
+.page-content h1 {
+  font-size: 32px;
+  font-weight: 600;
+  color: #727272;
+}
+
+.page-content h2 {
+  font-size: 32px;
+  font-weight: 600;
   color: #727272;
 }
 
