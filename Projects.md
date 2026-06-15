@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 ---
+<div style="margin-top: 30px;"></div>
 
 # Projects
 
