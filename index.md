@@ -6,7 +6,7 @@ title: Anneke Slis
   <a href="/Education">Education</a>
   <a href="/Publications">Publications</a>
   <a href="/Projects">Projects</a>
-  <a href="/Projects">Contact</a>
+  <a href="/Contact">Contact</a>
 </nav>
 
 
