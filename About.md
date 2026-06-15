@@ -4,7 +4,7 @@ title: About
 ---
 
 ## About
-My fascination with speech science started when I was still immersed in a musical research and performing arts environment. Combining these two fields, my research today focusses on common mechanisms underlying coordination of articulatory movements in speech and general movement control. The behavior of articulators resembles that found in other movement related fields, such as music production or walking. This means that similar (cognitive and mechanical) constraints in related fields, such as music, dance, rhythm etc. are expected when explaining underlying variability in speech.
+My fascination with speech science started when I was still immersed in a musical research and performing arts environment. Combining these two fields, my research today focusses on common mechanisms underlying coordination of articulatory movements in speech and general movement control. The movement behavior of articulators frequently resembles that found in other movement related fields, such as music production, dancing, or walking. This means that similar (cognitive and mechanical) constraints in related fields, such as music, dance, rhythm etc. are expected when investigating articulatory variability in speech production.
 
 Two main questions drive my research:
 How do cognitive, (bio)-mechanical constraints, and their interactions affect the final articulatory movements in speech production?
