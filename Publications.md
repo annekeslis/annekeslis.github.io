@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-## Publications
+# Publications
 
 **2026**
 
