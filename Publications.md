@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-<div style="margin-top: 30px;"></div>
+<div style="margin-top: 30px; margin-bottom: 30px;"></div>
 
 ## Publications
 
