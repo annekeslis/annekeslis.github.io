@@ -2,7 +2,7 @@
 layout: default
 title: Education
 ---
-<div style="margin-top: 30px; margin-bottom: 30px;"></div>
+<div style="margin-top: 30px; margin-bottom: 50px;"></div>
 # Education
 **2014	Ph.D. University of Toronto**, Oral Dynamics Lab, Department of Speech-Language Pathology
 *Dissertation:* “The Effect of Articulatory Constraints and Auditory Information on Patterns of Intrusions and Reductions”.
