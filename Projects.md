@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 ---
-<div style="margin-top: 30px; margin-bottom: 30px;"></div>
+<div style="margin-top: 30px; margin-bottom: 50px;"></div>
 # Projects
 
 ## External Metronome triggers and its effect on fluency in adults who stutter and individuals with Parkinson's Disease
