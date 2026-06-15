@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 ---
-<div style="margin-top: 30px; margin-bottom: 50px;"></div>
-# Contact
 
-anneke.slis@gmail.com
+<h1 class="page-title">Contact</h1>
+
+<p class="contact-email">anneke.slis@gmail.com</p>
