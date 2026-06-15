@@ -3,7 +3,6 @@ layout: default
 title: Projects
 ---
 
-
 # Projects
 
 ## External Metronome triggers and its effect on fluency in adults who stutter and individuals with Parkinson's Disease
