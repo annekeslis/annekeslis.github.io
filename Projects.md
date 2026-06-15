@@ -5,7 +5,7 @@ title: Projects
 <div style="margin-top: 30px; margin-bottom: 50px;"></div>
 # Projects
 
-## External Metronome triggers and its effect on fluency in adults who stutter and individuals with Parkinson's Disease
+## Fluency Enhancing Effects of Metronome Triggers
 
 At the Istituto di Scienze e Tecnologie della Cognizione in Padua, Italy, we investigated the articulatory organization of the Italian syllable in healthy and pathological speech. In this project, articulatory behaviour of speakers who stutter and dysarthric speakers diagnosed with Parkinson’s Disease was investigated under several fluency-enhancing conditions, such as external metronome beats, and conditions that were detrimental for fluency, such as sentence length and speech rate. The team consisted of Dr. Claudio Zmarich (PI) an Dr. Vincenzo Galata from the Istituto di Scienze e Tecnologie della Cognizione, Dr. Barbara Gili Fivela and Francesco Sigona from the Università del Salento - University of Salento, and me. 
 
@@ -17,6 +17,6 @@ One of my current interests is to differentiate between different types of dysar
 
 To fully understand speech production in neurobiologically healthy individuals and in PWS and dysarthric speakers, I am interested in possible concomitant impairments in limb control. Evidence shows that both people who stutter and individuals with Cerebellar Ataxia show impairments in rhythmic tapping. The question remains whether these motor impairments present similarly across domains and speech disorders. This research introduces an interdisciplinary approach by examining not only articulatory movements but also the overlap with general motor behavior — a connection that has been underexplored. 
 
-## Articulation techniques in clarinet playing​
+## Articulation Techniques in Clarinet Playing​
 
 Just like speech production, articulation of notes while playing a woodwind or brass instrument involves movements of the tongue and lips. I collaborated with the renowned clarinet player Kornel Wolak to investigate what the tongue does when players articulate notes on the clarinet. You can find more information about this project on: https://kornelwolak.com/ 
