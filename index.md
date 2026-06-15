@@ -2,7 +2,7 @@
 layout: default
 title: Anneke Slis
 ---
-
+<div style="padding-top: 30px; padding-bottom: 30px;"></div>
 [Education](/Education) | [Publications](/Publications) | [Projects](/Projects)
 
 Producing speech is one of the most complex motor skills humans develop, navigating between linguistic requirements on the one side and sensory and articulatory constraints on the other side. One striking feature observed during speech production is articulatory variability — the nature of articulatory movement behavior  and degree of variability to realize linguistic targets depends on context, dialect, skill, or individual physical characteristics. Despite this variability, listeners can still accurately extract the required linguistic information to understand a message. 
